@@ -1,4 +1,4 @@
 test message
 =================
-HELLO!!
+bug fixed
 
